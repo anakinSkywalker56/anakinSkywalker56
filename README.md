@@ -1,8 +1,19 @@
-## Привет 👋, Я Anakin!
+# Привет 👋, Я Anakin!
+
+## The now
 
 - 🔭 I’m currently working on the C6 Inventory Project
 - 🌱 I’m currently learning React.js and Tailwind CSS for frontend, and MySQL for backend
 - 👯 I’m currently collaborationg with Co-workers on my inventory project
 - 🤔 I’m looking for help with AI Tools and implementations
 
+## About Me
+
 - ⚡ Fun fact: Currently I am learning basic Russian
+- 💼 Currently Employed in UCLM as a working scholar
+- 🎓 3rd Year BSIT Student
+- ⚛️ Aspiring Full-stack Dev (Hoping to work on FS someday hehe)
+
+## Simple feats
+- 📜 Consecutive Dean's lister since 1st Year! (2023)
+- 🥈 2nd Place Java Competition in 11th ICT Congress UCLM
