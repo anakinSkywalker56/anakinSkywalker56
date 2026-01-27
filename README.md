@@ -15,5 +15,11 @@
 - ⚛️ Aspiring Full-stack Dev (Hoping to work on FS someday hehe)
 
 ## Simple feats
+
 - 📜 Consecutive Dean's lister since 1st Year! (2023)
 - 🥈 2nd Place Java Competition in 11th ICT Congress UCLM
+
+## Links
+
+- 🏷️ Figma for the Inventory Project: https://www.figma.com/design/ZjQVCE6DcVwxLiIVKhaD4K/Inventory-System?node-id=0-1&p=f&t=sr90PzcOIQD7J4QH-0
+- 😽 Neocities Coming Soon!
