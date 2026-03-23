@@ -18,6 +18,7 @@
 
 - 📜 Consecutive Dean's lister since 1st Year! (2023)
 - 🥈 2nd Place Java Competition in 11th ICT Congress UCLM
+- 🥇 1st Place General IT Quiz (w/ my partner [Alex](https://github.com/alexpqbt))
 
 ## Links
 
