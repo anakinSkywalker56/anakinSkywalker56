@@ -22,5 +22,5 @@
 
 ## Links
 
-- 🏷️ Figma for the Inventory Project: https://www.figma.com/design/ZjQVCE6DcVwxLiIVKhaD4K/Inventory-System?node-id=0-1&p=f&t=sr90PzcOIQD7J4QH-0
+- 🏷️ Figma for the Inventory Project: [Projects](https://www.figma.com/design/ZjQVCE6DcVwxLiIVKhaD4K/Inventory-System?node-id=0-1&p=f&t=sr90PzcOIQD7J4QH-0)
 - 😽 Neocities Coming Soon!  [Ongoing](https://milkshakerr.neocities.org/)
